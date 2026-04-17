@@ -1,2 +1,0 @@
-# webotron-web
-webotron web
